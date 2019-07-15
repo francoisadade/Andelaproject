@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Andelaproject</string>
+    <string name="pofile">Profile</string>
+    <string name="activity_about">About></string>
+    <string name="mainactivity">Mainactivity</string>
+    <string name="country_info">Country</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="welcom_to_alc_4_0">WELCOM TO ALC 4.0</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="email">Email</string>
+    <string name="number">Number</string                                                                          >
+    <string name="slackusername"></string>
+    <string name="track">Track</string>
+
+
+</resources>
